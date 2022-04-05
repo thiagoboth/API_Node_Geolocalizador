@@ -13,3 +13,19 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
+
+# Exemplo de body
+[
+    {
+        "latitude": -20.838485987795494,
+        "longitude": -49.41434030072999
+    },
+    {
+        "latitude": -20.834136341754874,
+        "longitude": -49.40587227536232
+    },
+    {
+        "latitude": -20.83395363294459,
+        "longitude": -49.40592356664784
+    }
+]
